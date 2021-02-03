@@ -1,0 +1,40 @@
+html {
+    position: relative;
+    width: 1400px;
+    height: 995.56px;
+    background: #FFFFFF;
+}
+lottie-player {
+    position: absolute;
+    left: 73.43%;
+    right: 6.27%;
+    top: 12.46%;
+    bottom: 56.01%;
+}
+#menu {
+    position: fixed;
+    width: 1400px;
+    height: 52px;
+    left: calc(50% - 1400px/2);
+    top: 0px;
+    
+    background: radial-gradient(263.54% 263.54% at 50% -23.44%, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+    filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.25));
+}
+#logo {
+    position: absolute;
+    width: 118px;
+    height: 65px;
+    left: 30px;
+    top: -4px; 
+}
+#bloco-1 {
+    position: absolute;
+    width: 1400px;
+    height: 659px;
+    left: calc(50% - 1400px/2);
+    top: 0px;
+
+    background: linear-gradient(111.29deg, #003394 6.66%, #006EDD 112.61%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
